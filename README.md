@@ -2,7 +2,7 @@
 This is a webpage made for Horiseon, focusing on placing images and linking between HTML and CSS.
 
 For screenshot see attached photo in main branch
-
+https://mayaj0yce.github.io/Horiseon-work-up-/
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
